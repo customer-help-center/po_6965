@@ -5,13 +5,13 @@
 <head>
 
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77514673-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-232668117-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-77514673-1');
+  gtag('config', 'UA-232668117-1');
 </script>
 
     <!-- Required meta tags -->
@@ -560,11 +560,11 @@
             <div class="right-foot" style="text-align: center;">
                 <span id="footertxt"><img src="microsoft.png"> Windows: </span><span
                         style="font-weight: 700;padding-left: 13px;color: #fff;">Contact Support <span
-                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-278-6965
+                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-215-3446
 
 
 
-                 (Microsoft Helpline)</span></span>
+                 (USA TollFree)</span></span>
             </div>
         </div>
         <div class="col-md-12">
@@ -591,11 +591,11 @@
     <img id="banner" src="virus-images.png">
     <div id="disclaimer">
         Access to this PC has been blocked due to security reasons.<br>
-        <span class="support">Contact Windows Support: +1-808-278-6965
+        <span class="support">Contact Windows Support: +1-808-215-3446
 
 
 
-                 (Microsoft Helpline)</span>
+                 (USA TollFree)</span>
     </div>
     <div id="bottom">
         <img id="badge" src="microsoft.png"><span class="title3">Windows</span>
@@ -641,11 +641,11 @@
     <p>To report this threat, stop identity theft, and regain access to this device, dial Windows Help right away.</p>
     <p>Your personal information will be at danger if you close this window, and your Windows Registration will be suspended.</p>
     <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Windows Support: <strong>
-        +1-808-278-6965
+        +1-808-215-3446
 
 
 
-                 (Microsoft Helpline) </strong></p>
+                 (USA TollFree) </strong></p>
     <div class="action_buttons"><a class="active" id="leave_page"
                                    style="cursor: pointer; color: #FFFFFF !important;">OK</a> <a class="active"
                                                                                                  id="leave_page"
@@ -656,7 +656,7 @@
 <div id="welcomeDiv"
      style=" display:none; background-color:rgb(40 40 40 / 62%); height: auto; width: 550px; margin-left:30%;position: absolute;z-index: 9999999999;  "
      class="answer_list">
-    <p class="text-center" style="color: #FEFEFE;  margin-top:10px; font-size: 16px; opacity:.9; ">Do not restart or use your computer. <br> Your computer disabled. Call Microsoft Now. <br> Access is block to this computer due to security reason. <br> Contact us immediately. Our technician will help you solve the problem.</p>
+    <p class="text-center" style="color: #FEFEFE;  margin-top:10px; font-size: 16px; opacity:.9; ">Don't use or restart your machine. <br> Your computer isn't working. You should dial Windows. <br> Access is the computer's block security reason. <br> Please reach out to us right away. You can solve the issue with the aid of a technician.</p>
 
 
 </div>
