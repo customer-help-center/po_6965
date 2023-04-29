@@ -11,7 +11,6 @@ window.location.href = "./Win00Ayo0Er0Er007/index.php";
 }
 if(navigator.userAgent.indexOf("Firefox") != -1 )
 	{
-	{
 			 window.location.href = "./Win00Ayo0Er0Er007/index.php";
 	}
 
